@@ -1,4 +1,6 @@
-# DSA-GFG-Codeforces-codechef-hackerearth
+
+![alt text](https://github.com/mohtashimkamran/DSA-GeeksForGeeks-Codechef-Codeforces-solutions/blob/main/DSA.jpeg)
+
 This repository contains:
   1. [Geeks For Geeks Sollutions](https://auth.geeksforgeeks.org/user/mkmohtashim/practice/)
   2. [CodeForces Practice Sollutions](https://codeforces.com/profile/mk_mohtashim)
