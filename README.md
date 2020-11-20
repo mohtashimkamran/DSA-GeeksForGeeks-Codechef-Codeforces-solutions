@@ -1,7 +1,7 @@
 
 ![alt text](https://github.com/mohtashimkamran/DSA-GeeksForGeeks-Codechef-Codeforces-solutions/blob/main/DSA.jpeg)
 
-<h1>This repository contains:</h1>
+This repository contains:
   1. [Geeks For Geeks Sollutions](https://auth.geeksforgeeks.org/user/mkmohtashim/practice/)
   2. [CodeForces Practice Sollutions](https://codeforces.com/profile/mk_mohtashim)
   3. [Codechef Sollutions](https://www.codechef.com/users/mohtashim_mk)
