@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/mohtashimkamran/DSA-GeeksForGeeks-Codechef-Codeforces-solutions/blob/main/DSA.jpeg)
+![alt text](https://github.com/mohtashimkamran/Quotes-Generator/blob/main/quotebg.PNG)
 
 This repository contains:
   1. [Geeks For Geeks Sollutions](https://auth.geeksforgeeks.org/user/mkmohtashim/practice/)
